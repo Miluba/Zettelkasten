@@ -4,7 +4,7 @@ Normal files in linux contain any sort of data e.g.:
 1. Binary files
 1. Compressed files 
 1. ...
-They are indicated by the file descriptor **-** in the in front of the permission string `-rw-r--r--`
+They are indicated by the file descriptor `-` in the in front of the permission string `-rw-r--r--`
 
 You can list the files in the current directory with the 
 ```sh
