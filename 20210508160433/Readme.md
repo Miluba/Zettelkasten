@@ -8,8 +8,8 @@ You have to be sure that your system time is correct. To do this you can set you
 ```sh
 sudo hwclock --hctosys
 ```
-
 This is espacially useful if you are using wsl in windows because it is likely that the time is not correct.
+
 ----
 [1620093558](https://github.com/Miluba/Zettelkasten/tree/main/1620093558)
 #terminal #date #linux #isoseconds
