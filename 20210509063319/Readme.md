@@ -3,7 +3,7 @@ In linux [everything is a file](https://en.wikipedia.org/wiki/Everything_is_a_fi
 There are different type of files:
 | Type | Descriptor | Description
 | --- | --- | --- |
-| Normal | - | Normal file |
+| [Normal](https://github.com/Miluba/Zettelkasten/blob/3e815024a9b95023bf0cbc0c764b2284792a5302/20210509071218/Readme.md) | - | Normal file |
 | Directories | d | Normal directory |
 | Hard Link | - | Additional name for an existing file |
 | Symbolic Link | l | Shortcut to a file or directory |
