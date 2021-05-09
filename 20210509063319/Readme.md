@@ -9,7 +9,7 @@ There are different type of files:
 | Symbolic Link | l | Shortcut to a file or directory |
 | Socket | s | Pass data between processes |
 | Named Pipes | p | Like sockets provides the output of a process as an input to other processes |
-| Character Device | c | Processes character hardware communication |
+| [Character Device](https://github.com/Miluba/Zettelkasten/blob/de0990c1785daa7e34b5edd65701d9c8820a109a/20210509202209/Readme.md) | c | Processes character hardware communication |
 | [Block Device](https://github.com/Miluba/Zettelkasten/blob/97741a1d8790b17e3b2b889a02dd65c56e85f5d8/20210509201026/Readme.md) | b | Processes buffered hardware communication |
 ----
 #linux #filetypes #inodes #filesystem
