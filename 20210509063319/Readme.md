@@ -6,7 +6,7 @@ There are different type of files:
 | [Normal](https://github.com/Miluba/Zettelkasten/blob/3e815024a9b95023bf0cbc0c764b2284792a5302/20210509071218/Readme.md) | - | Normal file |
 | Directories | d | Normal directory |
 | Hard Link | - | Additional name for an existing file |
-| Symbolic Link | l | Shortcut to a file or directory |
+| [Symbolic Link](https://github.com/Miluba/Zettelkasten/blob/8bf7721a41b11654de27a54f98059d54eedafde6/20210509204657/Readme.md) | l | Shortcut to a file or directory |
 | Socket | s | Pass data between processes |
 | Named Pipes | p | Like sockets provides the output of a process as an input to other processes |
 | [Character Device](https://github.com/Miluba/Zettelkasten/blob/de0990c1785daa7e34b5edd65701d9c8820a109a/20210509202209/Readme.md) | c | Processes character hardware communication |
