@@ -10,6 +10,6 @@ There are different type of files:
 | Socket | s | Pass data between processes |
 | Named Pipes | p | Like sockets provides the output of a process as an input to other processes |
 | Character Device | c | Processes character hardware communication |
-| Block Device | b | Processes buffered hardware communication |
+| [Block Device](https://github.com/Miluba/Zettelkasten/blob/97741a1d8790b17e3b2b889a02dd65c56e85f5d8/20210509201026/Readme.md) | b | Processes buffered hardware communication |
 ----
 #linux #filetypes #inodes #filesystem
