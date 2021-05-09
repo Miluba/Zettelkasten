@@ -1,5 +1,5 @@
 # In Linux everything is a file
-In linux everything is a file in fact everything is an *index node* called [inode](https://en.wikipedia.org/wiki/Inode) which is a data structure in unix based filesystems.
+In linux [everything is a file](https://en.wikipedia.org/wiki/Everything_is_a_file) in fact everything is an *index node* called [inode](https://en.wikipedia.org/wiki/Inode) which is a data structure in unix based filesystems.
 There are different type of files:
 | Type | Descriptor | Description
 | --- | --- | --- |
