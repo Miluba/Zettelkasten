@@ -11,6 +11,18 @@ ls -l | grep "^p"
 
 command.
 
+You can create a named pipe using the 
+```sh
+mkfifo namedpipe
+```
+
+command. Now you can access the data from another terminal e.g. using the
+```sh
+while read line ;do echo "This was passed-'$line' "; done<namedpipe
+```
+
+command.
+
 ----
 [20210509063319](https://github.com/Miluba/Zettelkasten/blob/0d04c6346387273fff651b920754d77044ab0d9b/20210509063319)
 #linux #filetypes #terminal #namedpipe
