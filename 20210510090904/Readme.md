@@ -3,14 +3,14 @@
 A hard link is in contrast to the symbolic link a copy of the original file. 
 Contents of the files are synced but if you delete a hardlink the origin is kept.
 
-You can create a hard link `/home/miluba/file1.txt` to `file.txt` link using the 
+You can create a hard link `/home/miluba/file1` to `file1` using the 
 ```sh
-ln file.txt /home/miluba/
+ln file1 /home/miluba/
 ```
 
 command.
 
-You can see how many hardlinks of a given file exist with the
+You can see how many hard links of a given file exist with the
 ```sh
 ls -al
 ```
@@ -18,7 +18,7 @@ ls -al
 command.
 
 The number right to the permission is indicating the amount of hard links. `2` in `-rw------- 2` is indicating 
-that one hard link exists. The number is indicating the reference count to the underlying inode. Hard links are unidirectional that means that the original file is not aware of the corresponding hard links.
+that one hard link exists. The number is indicating the reference count to the underlying inode. Hard links are unidirectional that means that the origin file is not aware of the corresponding hard links.
 
 You can find all hard links using the inode number of the original and find.
 ```sh
