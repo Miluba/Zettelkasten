@@ -4,7 +4,7 @@ There are different type of files:
 | Type | Descriptor | Description
 | --- | --- | --- |
 | [Normal](https://github.com/Miluba/Zettelkasten/blob/3e815024a9b95023bf0cbc0c764b2284792a5302/20210509071218/Readme.md) | - | Normal file |
-| Directories | d | Normal directory |
+| [Directories](https://github.com/Miluba/Zettelkasten/blob/508fbb015ea52070c72aff438b41ef9f0118e1ab/20210510100509/Readme.md) | d | Normal directory |
 | [Hard Link](https://github.com/Miluba/Zettelkasten/blob/1c23a3183a9fc517689fcd662f7f869f4487b1e9/20210510090904/Readme.md) | - | Additional name for an existing file |
 | [Symbolic Link](https://github.com/Miluba/Zettelkasten/blob/8bf7721a41b11654de27a54f98059d54eedafde6/20210509204657/Readme.md) | l | Shortcut to a file or directory |
 | Socket | s | Pass data between processes |
